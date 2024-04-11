@@ -11,11 +11,11 @@
 <section>
   <h2>About Me 👩‍💻</h2>
   <ul>
-    <li>🎓 I'm currently studying Computer Science and Engineering at National Institute of Technology, Agartala.</li>
-    <li>🔭 I’m working on my Personal Projects which are mainly based on Mobile and Web Dev.</li>
-    <li>💡 Some technologies I enjoy working with include Dart/Flutter. Currently exploring backend technologies.</li>
+    <li>🎓 I'm currently studying <b>Computer Science and Engineering</b> at <b>National Institute of Technology, Agartala.</b></li>
+    <li>🔭 I’m working on my Personal Projects which are mainly based on <b>Mobile and Web Dev.</b></li>
+    <li>💡 Some technologies I enjoy working with include <b>Dart/Flutter.</b> Currently exploring backend technologies.</li>
     <li>🌱 I'm on track for learning more about Cross-Platform Development, Systems Design, and Algorithms.</li>
-    <li>📫 You can shoot me an email at <a href="mailto:aindrelasaha22p@gmail.com">aindrelasaha22p@gmail.com</a>.</li>
+    <li>📫 You can shoot me an <b>email</b> at <a href="mailto:aindrelasaha22p@gmail.com">aindrelasaha22p@gmail.com</a>.</li>
     <li>👨‍💻 All of my projects are available at <a href="https://aindrelasaha.vercel.app/">https://aindrelasaha.vercel.app/</a>.</li>
   </ul>
 </section>
