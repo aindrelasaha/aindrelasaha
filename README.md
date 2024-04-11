@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://aindrelasaha.vercel.app/](https://aindrelasaha.vercel.app)
 
-- 📫 You can shoot me an email at **aindrelasaha22p@gmail.com**  I'll try to respond as soon as I can. 
+- 📫 You can shoot me an email at **aindrelasaha22p@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
