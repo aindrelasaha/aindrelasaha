@@ -27,7 +27,7 @@
   <a href="https://www.leetcode.com/aindrelasaha">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="20" width="20">
   </a>
-  &nbsp;Husteling on <a href="https://www.leetcode.com/aindrelasaha" style="text-decoration: none;">LeetCode>.<</a>
+  &nbsp;Hustling on <a href="https://www.leetcode.com/aindrelasaha" style="text-decoration: none;">LeetCode>.<</a>
   <br><br>
   <a href="https://codeforces.com/profile/aindrelasaha">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="20" width="20">
