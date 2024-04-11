@@ -9,7 +9,7 @@
 <img align="right" alt="coding" width="300" height="290" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdpMDZjYndvamprdzVybThxdGlxMGEwcTAxZmlvc2p5bzJxZGFlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy-downsized.gif">
 
 <section>
-  <h2>About Me</h2>
+  <h2>About Me 👩‍💻</h2>
   <ul>
     <li>🎓 I'm currently studying Computer Science and Engineering at National Institute of Technology, Agartala.</li>
     <li>🔭 I’m working on my Personal Projects which are mainly based on Mobile and Web Dev.</li>
