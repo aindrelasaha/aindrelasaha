@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aindrela Saha</h1>
 <h3 align="center">Hi to all my Tech Buddies! 👩‍💻🐣 I'm Aindrela, an aspiring Software Developer. A tech-savvy girl who enjoys solving bugs🐞</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/images/8d9ff49e063b95a8b1fa4004e7f23407/tenor.gif">
-
+<img align="right" alt="coding" width="400" src="https://giphy.com/embed/VbnUQpnihPSIgIXuZv">
 
 
 - 👨‍💻 All of my projects are available at [https://aindrelasaha.vercel.app/](https://aindrelasaha.vercel.app)
