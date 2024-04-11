@@ -6,7 +6,6 @@
 </p>
 
 
-<img align="right" alt="coding" width="300" height="290" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdpMDZjYndvamprdzVybThxdGlxMGEwcTAxZmlvc2p5bzJxZGFlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy-downsized.gif">
 
 <section>
   <h2>About Me 👩‍💻</h2>
@@ -19,6 +18,7 @@
     <li>👨‍💻 All of my projects are available at <a href="https://aindrelasaha.vercel.app/">https://aindrelasaha.vercel.app/</a>.</li>
   </ul>
 </section>
+<img align="right" alt="coding" width="300" height="290" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdpMDZjYndvamprdzVybThxdGlxMGEwcTAxZmlvc2p5bzJxZGFlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy-downsized.gif">
 
 
 <h3 align="left"><em><strong>Connect with me on💁‍♀️</strong></em>- </h3>
