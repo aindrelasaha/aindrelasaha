@@ -14,7 +14,6 @@
     <li>💡 Some technologies I enjoy working with include <b>Dart/Flutter.</b> Currently exploring backend technologies.</li>
     <li>🌱 I'm on track for learning more about Cross-Platform Development, Systems Design, and Algorithms.</li>
     <li>📫 You can shoot me an <b>email</b> at <a href="mailto:aindrelasaha22p@gmail.com">aindrelasaha22p@gmail.com</a>.</li>
-    <li>👨‍💻 All of my projects are available at <a href="https://aindrelasaha.vercel.app/">https://aindrelasaha.vercel.app/</a>.</li>
   </ul>
 </section>
 
