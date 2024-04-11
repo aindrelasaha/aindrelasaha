@@ -7,7 +7,7 @@
 
 - 📫 You can shoot me an email at **aindrelasaha22p@gmail.com**.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on💁‍♀️- </h3>
 <div align="left">
   <a href="https://linkedin.com/in/aindrelasaha">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="20">
