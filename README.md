@@ -20,27 +20,28 @@
   </ul>
 </section>
 
-<h3 align="left">Connect with me on💁‍♀️- </h3>
+
+<h3 align="left"><em><strong>Connect with me on💁‍♀️</strong></em>- </h3>
 <div align="left">
   <a href="https://linkedin.com/in/aindrelasaha">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="20">
   </a>
-  &nbsp;Lets make connections on <a href="https://linkedin.com/in/aindrelasaha" style="text-decoration: none;">LinkedIn💫</a>
+  &nbsp;<em><strong>Lets make connections on</strong></em> <a href="https://linkedin.com/in/aindrelasaha" style="text-decoration: none;">LinkedIn💫</a>
   <br><br>
   <a href="https://twitter.com/aindrelasaha">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="20" width="20">
   </a>
-  &nbsp;Just for fun on <a href="https://twitter.com/aindrelasaha" style="text-decoration: none;">Twitter ;)</a>
+  &nbsp;<em><strong>Just for fun on</strong></em> <a href="https://twitter.com/aindrelasaha" style="text-decoration: none;">Twitter ;)</a>
   <br><br>
   <a href="https://www.leetcode.com/aindrelasaha">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="20" width="20">
   </a>
-  &nbsp;Hustling on <a href="https://www.leetcode.com/aindrelasaha" style="text-decoration: none;">LeetCode>.<</a>
+  &nbsp;<em><strong>Hustling on</strong></em> <a href="https://www.leetcode.com/aindrelasaha" style="text-decoration: none;">LeetCode&gt;.&lt;</a>
   <br><br>
   <a href="https://codeforces.com/profile/aindrelasaha">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="20" width="20">
   </a>
-  &nbsp;In love💖 with <a href="https://codeforces.com/profile/aindrelasaha" style="text-decoration: none;">Codeforces :)</a>
+  &nbsp;<em><strong>In love💖 with</strong></em> <a href="https://codeforces.com/profile/aindrelasaha" style="text-decoration: none;">Codeforces :)</a>
 </div>
 
 
