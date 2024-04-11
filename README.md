@@ -2,7 +2,7 @@
 <h3 align="center">Hi to all my Tech Buddies! 👩‍💻🐣 I'm Aindrela, an aspiring Software Developer. A tech-savvy girl who enjoys solving bugs🐞</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=aindrelasaha&label=Profile%20views&color=008000&style=flat" alt="aindrelasaha" />
+  <img src="https://komarev.com/ghpvc/?username=aindrelasaha&label=Profile%20views&color=00FF00&style=flat" alt="aindrelasaha" />
 </p>
 
 
