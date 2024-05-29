@@ -22,8 +22,8 @@
 
 
 <h3 align="left"><em><strong>Connect with me on💁‍♀️</strong></em>- </h3>
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/aindrelasaha)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aindrelasaha/)
+(https://skillicons.dev/icons?i=twitter)](https://twitter.com/aindrelasaha)
+(https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aindrelasaha/)
 
 <!-- <div align="left">
   <a href="https://linkedin.com/in/aindrelasaha">
