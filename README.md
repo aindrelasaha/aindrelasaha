@@ -1,4 +1,4 @@
-<h1
+<h1  <div style="text-align: center;"> 
  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=FFFFFF&width=535&lines=Hi%2C+I'm+Aindrela%F0%9F%91%8B;Let's+Learn+Code+Innovate"/>
 </div>
 </h1>
