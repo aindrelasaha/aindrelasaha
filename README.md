@@ -1,5 +1,5 @@
 <h1  <div style="text-align: center;"> 
- <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=FFFFFF&width=535&lines=Hi%2C+I'm+Aindrela%F0%9F%91%8B;Let's+Learn+Code+Innovate"/>
+ <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=FFFFFF&width=535&lines=Hi%2C+I'm+Aindrela%F0%9F%91%8B;Let's+Learn+Code👩🏻‍💻+Innovate🚀"/>
 </div>
 </h1>
 <h3 align="center">Hi to all my Tech Buddies! 👩‍💻🐣 I'm Aindrela, an aspiring Software Developer. A tech-savvy girl who enjoys solving bugs🐞</h3>
