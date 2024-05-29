@@ -22,7 +22,10 @@
 
 
 <h3 align="left"><em><strong>Connect with me on💁‍♀️</strong></em>- </h3>
-<div align="left">
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/aindrelasaha)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aindrelasaha/)
+
+<!-- <div align="left">
   <a href="https://linkedin.com/in/aindrelasaha">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="20">
   </a>
@@ -42,7 +45,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="20" width="20">
   </a>
   &nbsp;<em><strong>In love💖 with</strong></em> <a href="https://codeforces.com/profile/aindrelasaha" style="text-decoration: none;">Codeforces :)</a>
-</div>
+</div> -->
 
 
 
