@@ -2,7 +2,7 @@
  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=FFFFFF&width=535&lines=Hi%2C+I'm+Aindrela%F0%9F%91%8B;Let's+Learn🐥Code👩🏻‍💻Innovate🚀"/>
 </div>
 </h1>
-<h3 align="center">Hi to all my Tech Buddies! 👩‍💻🐣 I'm Aindrela, an aspiring Software Developer. A tech-savvy girl who enjoys solving bugs🐞</h3>
+<h3 align="center">Hi to all my Tech Buddies! 👩‍💻 I'm an aspiring Software Developer. A tech-savvy girl who enjoys solving bugs🐞</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=aindrelasaha&label=Profile%20views&color=00FF00&style=flat" alt="aindrelasaha" />
