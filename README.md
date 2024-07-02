@@ -78,8 +78,9 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aindrelasaha&theme=monokai&hide_border=true&fire=DD2727" alt="Aindrela Saha" />
 </div>
-<hr/>
 <div align="center">
+<hr/>
+
 
  ### GitHub Stats
 
@@ -98,8 +99,3 @@
 <br/>
 <div align="center">
  <hr/>
-
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aindrelasaha&show_icons=true&locale=en" alt="aindrelasaha" width="350" /></p>
