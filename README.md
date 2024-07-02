@@ -81,6 +81,25 @@
 <div align="center">
 
 
+ ### GitHub Stats
+
+ <img  alt="Aindrela's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aindrelasaha&show_icons=true&hide_border=true&theme=monokai&hide_border=true&fire=DD2727" />
+
+</div>
+<div align="center">
+ <hr/>
+
+### Productivity Stats
+
+
+ ![Aindrela Saha's Productivity Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aindrelasaha&theme=monokai)
+
+</div>
+<br/>
+<div align="center">
+ <hr/>
+
+
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aindrelasaha&show_icons=true&locale=en" alt="aindrelasaha" width="350" /></p>
