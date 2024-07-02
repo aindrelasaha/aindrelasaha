@@ -76,10 +76,10 @@
 
 ### Contributions
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aindrelasaha&theme=monokai&hide_border=true&fire=DD2727" alt="Aindrela Saha" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aindrelasaha&theme=monokai&hide_border=true&fire=DD2727" alt="Aindrela Saha" />
 </div>
 <div align="center">
-<hr/>
+ <hr/>
 
 
  ### GitHub Stats
