@@ -75,10 +75,15 @@
 
 <div
  align="center">
+
+### Most Used Language
+
+ <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aindrelasaha&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" align="center" /></div>
+
  
 ### Contributions
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aindrelasaha&theme=monokai&hide_border=true&fire=DD2727" alt="Aindrela Saha" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aindrelasaha&theme=tokyonight&hide_border=true&fire=DD2727" alt="Aindrela Saha" />
 </div>
 <div align="center">
  <hr/>
@@ -86,7 +91,7 @@
 
  ### GitHub Stats
 
- <img  alt="Aindrela's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aindrelasaha&show_icons=true&hide_border=true&theme=monokai&hide_border=true&fire=DD2727" />
+ <img  alt="Aindrela's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=aindrelasaha&show_icons=true&hide_border=true&theme=tokyonight&hide_border=true&fire=DD2727" />
 
 </div>
 <div align="center">
@@ -95,7 +100,7 @@
 ### Productivity Stats
 
 
- ![Aindrela Saha's Productivity Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aindrelasaha&theme=monokai)
+ ![Aindrela Saha's Productivity Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aindrelasaha&theme=tokyonight)
 
 </div>
 <br/>
