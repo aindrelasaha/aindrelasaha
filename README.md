@@ -25,7 +25,18 @@
 <!-- (https://skillicons.dev/icons?i=twitter)](https://twitter.com/aindrelasaha)
 (https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aindrelasaha/)
  -->
-<div align="left">
+
+<p align="left">
+<a href="https://linkedin.com/in/aindrelasaha" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23725094/aindrela-saha" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="supun-nanayakkara" height="30" width="40" /></a>
+<a href="https://twitter.com/aindrelasaha" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="supun.nanayakkaraii" height="30" width="40" /></a>
+<a href="https://instagram.com/aindrelasaha" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@aindrelasaha9365" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="supun nanayakkara" height="30" width="40" /></a>
+</p>
+<br>
+
+ 
+<!-- <div align="left">
   <a href="https://linkedin.com/in/aindrelasaha">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="20">
   </a>
@@ -46,7 +57,7 @@
   </a>
   &nbsp;<em><strong>In love💖 with</strong></em> <a href="https://codeforces.com/profile/aindrelasaha" style="text-decoration: none;">Codeforces :)</a>
 </div>
-
+ -->
 
 
 
