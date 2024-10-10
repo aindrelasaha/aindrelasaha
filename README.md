@@ -9,15 +9,14 @@
 <img align="right" alt="coding" width="300" height="290" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdpMDZjYndvamprdzVybThxdGlxMGEwcTAxZmlvc2p5bzJxZGFlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy-downsized.gif">
 
 <section>
-
   <ul>
-    <li>🎓 I'm currently studying <b>Computer Science and Engineering</b> at <b>National Institute of Technology, Agartala.</b></li>
-    <li>🔭 I’m working on my Personal Projects which are mainly based on <b>Mobile and Web Dev.</b></li>
-<!--     <li>💡 Some technologies I enjoy working with include <b>Dart/Flutter.</b> Currently exploring backend technologies.</li> -->
+    <li>🎓 I'm currently studying <span style="font-weight: 500; font-size: 0.9em;">Computer Science and Engineering</span> at <span style="font-weight: 500; font-size: 0.9em;">National Institute of Technology, Agartala.</span></li>
+    <li>🔭 I’m working on my Personal Projects which are mainly based on <span style="font-weight: 500; font-size: 0.9em;">Mobile and Web Dev.</span></li>
     <li>🌱 I'm on track for learning more about Cross-Platform Development, Systems Design, and Algorithms.</li>
-    <li>📫 You can shoot me an <b>email</b> at <a href="mailto:aindrelasaha22p@gmail.com">aindrelasaha22p@gmail.com</a>.</li>
+    <li>📫 You can shoot me an <span style="font-weight: 500; font-size: 0.9em;">email</span> at <a href="mailto:aindrelasaha22p@gmail.com">aindrelasaha22p@gmail.com</a>.</li>
   </ul>
 </section>
+
 
 
 <h3 align="left"><em><strong>Connect with me on💁‍♀️</strong></em>- </h3>
