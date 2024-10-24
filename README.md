@@ -14,6 +14,7 @@
     <li>🔭 I’m working on my Personal Projects which are mainly based on <span style="font-weight: 500; font-size: 0.9em;">Mobile and Web Dev.</span></li>
     <li>🌱 I'm on track for learning more about Cross-Platform Development, Systems Design, and Algorithms.</li>
     <li>📫 You can shoot me an <span style="font-weight: 500; font-size: 0.9em;">email</span> at <a href="mailto:aindrelasaha22p@gmail.com">aindrelasaha22p@gmail.com</a>.</li>
+   <li>😹 I stalk my coding profiles more than you scroll through your crush's Instagram.</li>
   </ul>
 </section>
 
